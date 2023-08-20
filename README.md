@@ -1,21 +1,21 @@
-# jimi_garajejob
+# jimi_mensajeautomatico
 **Mi discord:** https://discord.gg/jRExhKV7UA
 
 # Información del script
-Este script es un garaje para los trabajos o bandas etc que tu desees, cuando sacas un vehículo tiene la gasolina automaticamente al 100%
+Script para que el servidor automaticamente envie mensajes al chat cada cierto tiempo.
 
-Este script esta modificado por mi para que tenga mas facilidad al momento de editarlo para los que no tienen mucha experiencia
+Este script esta modificado por mi para que tenga una guia dentro del client.lua para saber como se modifica.
 
 # ¿Como instalarlo?
 
 Descarga y extrae el archivo zip.
 
-Renombra la carpeta de jimi_garajejob-main a jimi_garajejob.
+Renombra la carpeta de jimi_mensajeautomatico-main a jimi_mensajeautomatico
 
-Pon la carpeta jimi_garajejob en tu carpeta de resources.
+Pon la carpeta jimi_mensajeautomatico en tu carpeta de resources.
 
 Luego en tu server.cfg pon esto:
 
-start jimi_garajejob
+start jimi_mensajeautomatico
 
 Y el script ya estaria en funcionamiento cuando reinicies tu servidor.
